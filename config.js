@@ -1,13 +1,13 @@
-global.you = ['6285850539404'] 
+global.you = ['62823504965320'] 
 //Developer Bot
-global.namebot = 'oscar'
-global.rowner = ['6285850539404', '16199961931'] // Real Owner Bot
-global.owner = ['6285850539404'] // Owner Bot
+global.namebot = 'DanzzMd'
+global.rowner = ['62823504965320', '62823504965320'] // Real Owner Bot
+global.owner = ['62823504965320'] // Owner Bot
 global.police = [] // Police Bot
 global.mods = []  // Want some help?
 global.prems = [] // Premium user has unlimited limit
 
-global.helper = ['6285850539404']
+global.helper = ['62823504965320']
 global.api = '45083080630f3830a5bed882'
 global.APIs = { // API Prefix
   // name: 'https://website'
@@ -61,7 +61,7 @@ global.socket = {
 
 global.useMulti = false
 
-global.media = 'https://telegra.ph/file/1a432751096d4d399a8c4.jpg'
+global.media = 'https://telegra.ph/file/fb3301f5878e1f0bf6a9f.jpg'
 
 /*=========== TYPE DOCUMENT ===========*/
 global.dpptx = 'application/vnd.openxmlformats-officedocument.presentationml.presentation'
@@ -70,7 +70,7 @@ global.dxlsx = 'application/vnd.openxmlformats-officedocument.spreadsheetml.shee
 global.dpdf = 'application/pdf'
 global.drtf = 'text/rtf'
 
-global.thumbdoc = 'https://telegra.ph/file/537edd58e7f8849a7dc50.jpg'
+global.thumbdoc = 'https://telegra.ph/file/fb3301f5878e1f0bf6a9f.jpg'
 
 /*=========== FAKE SIZE ===========*/
 global.fsizedoc = '564588643' // default 10TB
@@ -85,9 +85,9 @@ global.ytowner = '⫹⫺ Jangan Lupa Subscribe https://youtube.com/@Jarotoffc'
 global.gc2 = '⫹⫺ Nih Jangan Lupa Join https://chat.whatsapp.com/KGuKY4wuKHS8sj6K5IHjFG'
 global.diskusi = '⫹⫺ Nih Jangan Lupa Join https://chat.whatsapp.com/LKxOImbU62e9sgai6Ow2Ef'
 // Sticker WM
-global.packname = 'Jarot offc'
-global.author = 'Jarot offc'
-global.wm = '© Jarot offc'
+global.packname = 'By DanzzBotz'
+global.author = 'http://ī.am/DanzzZxx'
+global.wm = '© http://ī.am/DanzzZxx'
 
 global.fla = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=sketch-name&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&fillTextType=1&fillTextPattern=Warning!&text='
 
